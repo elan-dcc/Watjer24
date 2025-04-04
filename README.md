@@ -16,7 +16,7 @@ De inhoud van map genaamd Stap 1:
 - MED2_onaangepast_15-08 is het originele (van Henk ontvangen) MED1 bestand geupload in SPSS. 
 - MED3_onaangepast_15-08 is het originele (van Henk ontvangen) MED1 bestand geupload in SPSS.  
 - PAT_DataSet1 bevat alle demografische kenmerken van ons cohort (geboortedatum etc) maar ook in- en uitschrijfdata. 
-+ Syntax voor het opstellen baselinetabel is de syntax die je 'runt' om als resultaat Data View met baseline gegevens te krijgen. 
+- + Syntax voor het opstellen baselinetabel is de syntax die je 'runt' om als resultaat Data View met baseline gegevens te krijgen. 
 - VER_DataSet4 bevat de verrichtingen met datum van verrichting.
 - VW_DataSet5 bevat de verwijzingen met datum van verwijzing.
 
@@ -27,13 +27,13 @@ Folder Stap 2:
 
 Uitleg inhoud mag Stap 2- syntax voor analyse baseline table (descriptives)
 - Check hoeveel ony onder tinea pedis is geregisteerd: met deze syntax heb ik gekeken of ik veel onychomycose registraties mis tgv registratie onder de ICPC voor tinea pedis ipv onychomycose.
-+ Syntax_analyse_baseline_tabel bevat de descriptives, T-testen en cross tabs om de getallen (inhoud) van de baseline tabel te verkrijgen. 
+- + Syntax_analyse_baseline_tabel bevat de descriptives, T-testen en cross tabs om de getallen (inhoud) van de baseline tabel te verkrijgen. 
 
 
 ---
 
 Folder Stap 3:
 
-No description, but syntax only saved.
+No description, but syntax only saved, from the "final" folder.
 
 
